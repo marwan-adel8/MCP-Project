@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "category": "Time Management",
+    "title": "Prioritize Tasks with Eisenhower Matrix",
+    "tip": "Divide your tasks into four quadrants based on urgency and importance.",
+    "example": "Focus on 'Important but Not Urgent' tasks to prevent future crises."
+  },
+  {
+    "id": 2,
+    "category": "Time Management",
+    "title": "Use the Pomodoro Technique",
+    "tip": "Study for 25 minutes, then take a 5-minute break. Repeat 4 times.",
+    "example": "Set a timer for 25 minutes and focus fully, then reward yourself with a walk."
+  },
+  {
+    "id": 3,
+    "category": "Organization",
+    "title": "Declutter Your Workspace",
+    "tip": "Keep only the essentials on your desk to reduce mental distractions.",
+    "example": "Clear your physical desk and your computer desktop at the end of each day."
+  },
+  {
+    "id": 4,
+    "category": "Productivity",
+    "title": "Eat the Frog",
+    "tip": "Do your most difficult and important task first thing in the morning.",
+    "example": "Complete your complex coding logic before checking social media or emails."
+  },
+  {
+    "id": 5,
+    "category": "Coding",
+    "title": "Write Clean & Readable Code",
+    "tip": "Use meaningful variable names and keep functions small and focused.",
+    "example": "Instead of 'data', use 'userProfile' to make the code self-explanatory."
+  },
+  {
+    "id": 6,
+    "category": "Health",
+    "title": "The 20-20-20 Rule",
+    "tip": "Every 20 minutes, look at something 20 feet away for 20 seconds.",
+    "example": "Look out the window briefly to give your eyes a break from the screen."
+  },
+  {
+    "id": 7,
+    "category": "Learning",
+    "title": "Feynman Technique",
+    "tip": "Explain a concept you're learning as if you're teaching it to a child.",
+    "example": "Explain how 'Middleware' works in Express.js in simple, plain language."
+  },
+  {
+    "id": 8,
+    "category": "Development",
+    "title": "Commit Early and Often",
+    "tip": "Make small, frequent commits to Git with clear descriptive messages.",
+    "example": "Use 'feat: add login validation' instead of just 'update' for your commit message."
+  },
+  {
+    "id": 9,
+    "category": "Focus",
+    "title": "Deep Work Sessions",
+    "tip": "Schedule blocks of 90 minutes for uninterrupted, high-concentration work.",
+    "example": "Put your phone in another room while working on the core backend logic."
+  },
+  {
+    "id": 10,
+    "category": "Self-Improvement",
+    "title": "Daily Reflection",
+    "tip": "Spend 5 minutes at the end of the day reviewing what you learned.",
+    "example": "Write down one thing you struggled with and how you solved it today."
+  }
+]
